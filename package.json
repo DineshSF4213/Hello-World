@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-pack",
+  "version": "1.0.1",
+  "description": "Return the input name with Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DineshSF4213/Hello-World.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "pack"
+  ],
+  "author": "Dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
